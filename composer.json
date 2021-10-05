@@ -30,7 +30,7 @@
     "require-dev": {
         "barryvdh/laravel-debugbar": "3.6.2",
         "facade/ignition": "2.10.2",
-        "friendsofphp/php-cs-fixer": "3.0.0",
+        "friendsofphp/php-cs-fixer": "3.2.1",
         "laravel/sail": "1.8.6",
         "mockery/mockery": "1.4.3",
         "phpunit/phpunit": "9.5.7"
